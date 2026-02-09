@@ -9,18 +9,18 @@
 </div>
 <br>
 
-##🛸 Current Mission Status
-Active Projects:
+
+# Active Projects:
   - 🧠 Computer Vision Models: "In development"
   - 🌐 Full-Stack Web Apps: "Deploying to cloud"
   - ⚙️ MLOps Pipeline: "Optimizing workflows"
 
-#Learning Trajectory:
+# Learning Trajectory:
   - 🎯 Advanced MLOps
   - ☁️ Cloud-Native AI
   - 🔧 Kubernetes Orchestration
 
-#Collaboration Status: 🟢 OPEN
+# Collaboration Status: 🟢 OPEN
   - Seeking: Full-stack projects with ML integration
   - Expertise: ML implementation, Web architecture, Deployment
   - Contact: starglen17@gmail.com
