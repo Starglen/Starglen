@@ -10,70 +10,24 @@
 
 <br>
 
-## 🚀 Core Focus Matrix
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/star.glen.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starglen40) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glen-kamau-08499135a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/starglen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Starglen17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:starglen17@gmail.com)
 
-```mermaid
-graph LR
-    A[🚀 Starglen] --> B[🧠 Machine Learning]
-    A --> C[🌐 Full-Stack Web]
-    A --> D[⚙️ DevOps/MLOps]
-    
-    B --> B1[Computer Vision]
-    B --> B2[NLP Models]
-    B --> B3[AI Deployment]
-    
-    C --> C1[React/Next.js]
-    C --> C2[FastAPI/Node.js]
-    C --> C3[Cloud Services]
-    
-    D --> D1[Kubernetes]
-    D --> D2[Docker]
-    D --> D3[CI/CD Pipelines]
-    
-    B3 & C3 & D3 --> E[🎯 Production-Ready Solutions]
-🌟 Tech Nebula
-🪐 Primary Orbits
-https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0d1117
-https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0d1117
-https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117
-https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=0d1117
-https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117
 
-🌌 AI Constellation
-https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117
-https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117
-https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117
-https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=0d1117
 
-☄️ Cloud & DevOps
-https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117
-https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117
-https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117
-https://img.shields.io/badge/GH_ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0d1117
+💻 Tech Stack:
+https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white https://img.shields.io/badge/html5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/kotlin-%25237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white https://img.shields.io/badge/django-%2523092E20.svg?style=for-the-badge&logo=django&logoColor=white https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi https://img.shields.io/badge/tailwindcss-%252338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white https://img.shields.io/badge/Amazon%2520DynamoDB-4053D6?style=for-the-badge&logo=Amazon%2520DynamoDB&logoColor=white https://img.shields.io/badge/figma-%2523F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white https://img.shields.io/badge/Canva-%252300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white https://img.shields.io/badge/adobe-%2523FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white https://img.shields.io/badge/gitlab-%2523181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
 
-📡 Connect Grid
-<div align="center">
-https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge
-https://custom-icon-badges.demolab.com/badge/Email-EA4335?logo=gmail&logoColor=fff&style=for-the-badge
-https://custom-icon-badges.demolab.com/badge/X-000?logo=x&logoColor=fff&style=for-the-badge
-https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge
+📊 GitHub Stats:
+https://github-readme-stats.vercel.app/api?username=Starglen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true
 
-</div>
-📊 GitHub Analytics Dashboard
-<div align="center">
-Metrics	Languages	Streak
-https://github-readme-stats.vercel.app/api?username=Starglen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=fff	https://github-readme-stats.vercel.app/api/top-langs/?username=Starglen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=fff	https://streak-stats.demolab.com/?user=Starglen&theme=radical&hide_border=true&background=0d1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=888
-</div>
-🎮 GitHub Snake Game
-<div align="center">
-https://raw.githubusercontent.com/Starglen/Starglen/output/github-contribution-grid-snake-dark.svg
+https://nirzak-streak-stats.vercel.app/?user=Starglen&theme=transparent&hide_border=false
 
-</div>
-🏆 Achievement Matrix
-<div align="center">
-https://github-profile-trophy.vercel.app/?username=Starglen&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15
+https://github-readme-stats.vercel.app/api/top-langs/?username=Starglen&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact
 
-</div>
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=Starglen&theme=transparent&no-frame=false&no-bg=false&margin-w=4
+
 🛸 Current Mission Status
 yaml
 Active Projects:
@@ -90,9 +44,14 @@ Collaboration Status: 🟢 OPEN
   - Seeking: Full-stack projects with ML integration
   - Expertise: ML implementation, Web architecture, Deployment
   - Contact: starglen17@gmail.com
+🎮 GitHub Snake Game
+<div align="center">
+https://raw.githubusercontent.com/Starglen/Starglen/output/github-contribution-grid-snake-dark.svg
+
+</div>
 🌐 Interstellar Traffic
 <div align="center">
-https://komarev.com/ghpvc/?username=Starglen&color=00FF9D&style=for-the-badge&label=INTERSTELLAR+VISITORS
+https://visitcount.itsvg.in/api?id=Starglen&icon=0&color=0
 
 </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=To+Infinity+and+Beyond...&fontSize=20&fontAlignY=65&animation=twinkling" />
@@ -100,4 +59,4 @@ https://komarev.com/ghpvc/?username=Starglen&color=00FF9D&style=for-the-badge&la
 
 © 2026 Starglen | Nairobi, Kenya 🌍
 
-</div> ```
+</div> 
