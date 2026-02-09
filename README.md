@@ -1,8 +1,18 @@
 <div align="center">🌌 Hi AM Starglen</div>
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML+Researcher;From+Nairobi%2C+Kenya+%F0%9F%8C%8D;Turning+Complex+Problems+into+Production+Solutions;Building+the+Future+with+Code+%26+AI" alt="Typing Animation" /> </div>
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML+Researcher;From+Nairobi%2C+Kenya+%F0%9F%8C%8D;Turning+Complex+Problems+into+Production+Solutions;Building+the+Future+with+Code+%26+AI" alt="Typing Animation" /> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Starglen's%20Galaxy&fontSize=40&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Web%20%7C%20DevOps%20%7C%20Cloud" /> </div>
-🚀 Core Focus Matrix
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML+Researcher;From+Nairobi%2C+Kenya+%F0%9F%8C%8D;Turning+Complex+Problems+into+Production+Solutions;Building+the+Future+with+Code+%26+AI" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Starglen's%20Galaxy&fontSize=40&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Web%20%7C%20DevOps%20%7C%20Cloud" />
+</div>
+
+<br>
+
+## 🚀 Core Focus Matrix
+
+```mermaid
 graph LR
     A[🚀 Starglen] --> B[🧠 Machine Learning]
     A --> C[🌐 Full-Stack Web]
@@ -90,4 +100,4 @@ https://komarev.com/ghpvc/?username=Starglen&color=00FF9D&style=for-the-badge&la
 
 © 2026 Starglen | Nairobi, Kenya 🌍
 
-</div>
+</div> ```
