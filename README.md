@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:00BFFF&height=130&section=header&text=Hi%2C%20I'm%20Starglen&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:00BFFF&height=100&section=header&text=Hi%2C%20I'm%20Starglen&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+ML+Researcher;AI+Startup+Founder+%F0%9F%9A%80;From+Nairobi%2C+Kenya+%F0%9F%8C%8D;Building+the+Future+with+Code+%26+AI" alt="Typing Animation" />
 
