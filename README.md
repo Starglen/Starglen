@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,100:00BFFF&height=100&section=header&text=Hi%2C%20I'm%20Starglen&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+ML+Researcher;AI+Startup+Founder+%F0%9F%9A%80;Founder+%26+C.E.O+of+Cultidex.com;From+Earth%2C+Milky+Way+Galaxy+%F0%9F%8C%8D;Building+the+Future+with+Code+%26+AI" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+ML+Researcher;AI+Startup+Founder+%F0%9F%9A%80;Founder+%26+C.E.O+of+Cultidex.com;From+Earth%2C+Milky+Way+Galaxy+%F0%9F%8C%8D;Building+the+Future+with+Code+%26+AI" alt="Typing Animation" />
 
 </div>
 
@@ -22,16 +22,16 @@
 | 🤖 **AI Startup**             | `In stealth — building`      |
 | 🧠 **Computer Vision Models** | `In development`             |
 | 🌐 **Full-Stack Web Apps**    | `Deploying`                  |
-| ⚙️ **MLOps Pipeline**         | `Optimizing workflows`       |
+| ⚙️ **AI Models**              | `Optimizing workflows`       |
 
 ---
 
 ## 🎯 Learning Trajectory
 
-* 🤖 Large Language Models & Fine-tuning
-* 🎯 Advanced MLOps
-* ☁️ Cloud-Native AI
-* 🔧 Kubernetes Orchestration
+* 🤖 Large Language Models & Deep Learning 
+* 🎯 LLMOps & Advanced MLOps 
+* ☁️ Cloud-Native AI 
+
 
 ---
 
